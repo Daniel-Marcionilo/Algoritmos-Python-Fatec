@@ -1,0 +1,56 @@
+ENTREGA 1
+
+Base = 9
+Altura = 6
+Area = (Base * Altura)/2
+print(Area)
+
+O resultado obtido com o código-fonte acima foi área do triângulo corresponde a 27.0.
+
+ENTREGA 2
+
+ValorHora = 14.25
+
+HorasNormais = 163
+
+HorasExtras = 20
+
+SalarioBruto = ((ValorHora * HorasNormais) + ((ValorHora*2) * HorasExtras))
+
+print(SalarioBruto)
+
+resultado obtido -> 2892.75
+
+ENTREGA 3
+A = 4
+B=5
+C=1
+
+R = (A + B )/ 2
+print(R)
+
+Resultado obtido -> 4.5
+
+R = ((3*A) + (2*B)) / (A+B)
+print(R)
+
+Resultado obtido -> 2.4444444444444446
+
+x = (-B + ( ( (B ** 2) - (4 * A * C) ) ** (1/2))) / (2 * A)
+print(x)
+
+Resultado obtido -> -0.25
+
+Z = 7.6*A - B **1.7
+print(Z)
+
+Resultado obtido -> 14.974153431999758
+
+Entrega 4
+
+De forma objetiva, o comando input serve para realizarmos a entrada de dados, isto é, pegar
+o que o usuário digitou. Um ponto importante é que está função input sempre retorna valores
+do tipo string, conjunto de caracteres. Podemos utilizarmos este comando conforme
+o exemplo abaixo:
+
+ 

@@ -1,0 +1,63 @@
+O que é algoritmo?
+
+Algoritmo é um conjunto de passos sequenciais finitos com o objetivo de solucionar algum
+problema ou realizar uma tarefa
+R: Algoritmo é um conjunto de passos sequenciais finitos com o objetivo de solucionar algum
+problema.
+
+O que é linguagem de programação
+
+Uma linguagem de programação é o idioma na qual desenvolvedores/programadores
+utilizam para se comunicar com o computador. Está comunicação é realizada através de
+um conjunto de instruções símbolos, palavras-chave, regras semânticas e sintáticas.
+A fim de criar programas a partir de um conjunto de ordens, ações consecutivas, dados e algoritmos. 
+R: Uma linguagem de programação é o idioma na qual desenvolvedores/programadores
+utilizam para se comunicar com o computador.
+
+O que é um Compilador?
+O compilador é o programa responsável por traduzir ao computador o código-fonte criado pelo programador em uma linguagem
+de alto nível. Desta forma, o processador e o Sistema Operacional da máquina entendem a mensagem descrita no código-fonte.
+R: O compilador é o programa responsável por traduzir ao computador o código-fonte criado pelo programador
+em uma linguagem de alto nível. Desta forma, o processador e o Sistema Operacional da máquina entendem
+a mensagem descrita no código-fonte.
+
+O que é IDE - Ambiente de Desenvolvimento Integrado?
+
+IDE consite em um programa que reúne diversas ferramentas e auxiliam de forma eficiente a criação de programas.
+Nestes ambientes é possível escrever, compilar e testar as suas aplicações facilmente. Ou seja, são elas que facilitam
+a vida de um programador.
+
+R: IDE consiste em um programa que reúne diversas ferramentas e auxiliam de forma eficiente a criação de programas.
+Nestes ambientes é possível escrever, compilar e testar as suas aplicações. 
+
+Download Python
+Sim. Entrei no portal e busquei por Downloads a fim de baixar a versão mais recente do Python.
+Foi uma experiência tranquila, sem muitas dificuldades. 
+
+
+
+Dúvida
+
+Por favor, não entendi muito bem o que significa "os paradigmas de programação". Pelo que entendi está relacionado a forma
+como solucionamos um problema. Neste caso, um fluxograma é um paradigma?
+
+
+O que é um Paradigma de Programação?
+
+Paradigma de programação são várias maneiras de solucionar o mesmo problema.
+
+Existem dois tipos de Paradigmas de Programação: Imperativo e Declarativo
+
+Imperativo -> Procedural/Estruturada -> POO
+
+Imperativo: Instruções/Comandos passo a passo, ordenando comando a após comando
+
+Declarativo -> Programação Funcional, Lógica, Linguagens de Marcação
+-> Está maneira de resolução se precoupa em fazer e não saber como foi feito
+Exemplo: Uma consulta SQL sabemos que utilizamos Select * from tb para selecionar todos os campos de uma tabela
+e nos trazer o resultado. Porém, não sabemos de que forma o Select foi feito para nos trazer estás informações.
+Portanto, ele se preocupa em fazer e não em como foi feito/produzido aquela instrução, o que tem por baixo dos panos.
+
+
+
+
